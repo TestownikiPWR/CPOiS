@@ -1,0 +1,4 @@
+X01
+Momenty centralne s¹ niezale¿ne od skali obiektu.
+TAK
+NIE

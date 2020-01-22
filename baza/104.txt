@@ -1,0 +1,4 @@
+X10
+Histogram obrazu binarnego zawiera dwa niezerowe pr¹¿ki.
+TAK
+NIE

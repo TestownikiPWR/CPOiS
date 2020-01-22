@@ -1,0 +1,4 @@
+X10
+Próbkowanie ze zbyt nisk¹ czêstotliwoœci¹ mo¿e prowadziæ do pojawienia siê zjawiska aliasingu.
+TAK
+NIE

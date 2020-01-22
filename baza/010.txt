@@ -1,0 +1,4 @@
+X10
+Kwantyzacja równomiernia dzieli skalê jasnoœci na równe podprzedzia³y.
+TAK
+NIE

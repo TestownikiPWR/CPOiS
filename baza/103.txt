@@ -1,0 +1,4 @@
+X10
+Operacja rozci¹gania histogramu zwykle zmienia histogram.
+TAK
+NIE

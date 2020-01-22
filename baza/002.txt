@@ -1,0 +1,4 @@
+X10
+Transformacja Hougha mo¿e s³u¿yæ do wykrywania okreœlonych kszta³tów na obrazie.
+TAK
+NIE

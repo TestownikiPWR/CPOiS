@@ -1,0 +1,4 @@
+X10
+W przekszta³ceniach punktowych operacje nie wprowadzaj¹ nowych informacji do obrazu.
+TAK
+NIE

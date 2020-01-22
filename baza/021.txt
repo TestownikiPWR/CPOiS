@@ -1,0 +1,4 @@
+X10
+Szkielet obiektu jest zbiorem wszystkich punktów równoodleg³ych od co najmniej dwóch punktów nale¿¹cych do brzegu.
+TAK
+NIE

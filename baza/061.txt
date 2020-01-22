@@ -1,0 +1,4 @@
+X01
+Za pomoc¹ operacji morfologicznych nie mo¿emy przeprowadziæ filtracji szumów.
+TAK
+NIE

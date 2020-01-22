@@ -1,0 +1,4 @@
+X01
+Operacja rozci¹gania histogramu ma na celu poprawê ostroœci obrazu.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Dyskretyzacja to dwuwymiarowe próbkowanie w œciœle okreœlonych miejscach sygna³u analogowego.
+TAK
+NIE

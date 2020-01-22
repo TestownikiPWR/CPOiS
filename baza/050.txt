@@ -1,0 +1,4 @@
+X10
+Filtracja w dziedzinie rzeczywistej polega na wykonaniu splotu obrazu i odpowiedniej maski filtru.
+TAK
+NIE

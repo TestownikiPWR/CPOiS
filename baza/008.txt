@@ -1,0 +1,4 @@
+X10
+W grafice wektorowej obraz rysowany jest za pomoc¹ punktów kresek itp., wiêc zapamiêtywane s¹ charakterystyczne dane figur.
+TAK
+NIE

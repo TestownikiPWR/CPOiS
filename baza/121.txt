@@ -1,0 +1,4 @@
+X01
+Jeœli przyjmiemy, ¿e obraz ma rozmiar W x H, to ostatni pr¹¿ek histogramu kumulacyjnego przyjmie wartoœæ W + H.
+TAK
+NIE

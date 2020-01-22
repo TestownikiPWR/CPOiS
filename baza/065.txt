@@ -1,0 +1,4 @@
+X01
+Obraz po przeprowadzeniu operacji rozci¹gania histogramu posiada wiêcej poziomów jasnoœci ni¿ obraz oryginalny.
+TAK
+NIE

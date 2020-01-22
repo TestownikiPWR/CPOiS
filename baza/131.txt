@@ -1,0 +1,4 @@
+X01
+W progowaniu wartoœæ progu lokalnego dobierana jest na podstawie ca³ego obrazu.
+TAK
+NIE

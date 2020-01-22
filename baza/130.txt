@@ -1,0 +1,4 @@
+X01
+Przekszta³cenia lokalne s¹ operacjami wykonywanymi na pojedynczych pikselach obrazu.
+TAK
+NIE

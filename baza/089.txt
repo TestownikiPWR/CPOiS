@@ -1,0 +1,4 @@
+X10
+Momenty centralne znormalizowane s¹ niezale¿nie od skali obiektu.
+TAK
+NIE

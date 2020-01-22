@@ -1,0 +1,4 @@
+X01
+Filtracja górnoprzepustowa s³u¿y do ekstrakcji obszarów wolnozmiennych z obrazu.
+TAK
+NIE

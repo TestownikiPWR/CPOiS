@@ -1,0 +1,4 @@
+X10
+Zgodnie z twierdzeniem Shanona-Kotielnikowa o próbkowaniu, czêstotliwoœæ próbkowania gwarantuj¹ca zachowanie pe³nej informacji o sygnale powinna byæ co najmniej dwukrotnie wiêksza od maksymalnej czêstotliwoœci sygna³u.
+TAK
+NIE

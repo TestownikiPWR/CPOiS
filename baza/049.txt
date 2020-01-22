@@ -1,0 +1,4 @@
+X01
+W kontekstowej filtracji obrazu zwiêkszenie rozmiaru maski filtru górnoprzepustowego powoduje widoczne rozmycie.
+TAK
+NIE

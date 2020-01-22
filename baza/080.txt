@@ -1,0 +1,4 @@
+X01
+Transformata Fouriera jest operacj¹ nieliniow¹.
+TAK
+NIE

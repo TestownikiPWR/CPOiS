@@ -1,0 +1,4 @@
+X01
+Operacje morfologiczne nie mog¹ s³u¿yæ do znajdowania obiektu.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Poprzed domkniêcie mo¿na uzupe³niæ "dziury" i "zatoki" w sylwetce.
+TAK
+NIE

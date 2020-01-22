@@ -1,0 +1,4 @@
+X10
+Transformacja Fouriera umo¿liwia przejœcie z dziedziny rzeczywistej w dziedzinê czêstotliwoœci.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+W progowaniu wartoœæ progu najczêœciej dobiera siê na podstawie widma.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Do przeprowadzenia operacji morfologicznej potrzebujemy obrazu i elementu strukturalnego.
+TAK
+NIE

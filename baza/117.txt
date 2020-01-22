@@ -1,0 +1,4 @@
+X10
+W widmie obrazu po operacji przesuniêcia wysokie czêstotliwoœci znajduj¹ siê na obrze¿ach widma.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Model barw RGB jest modelem addytywnym.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Akwizycja obrazu jest procesem polegaj¹cym na przetworzeniu obrazu widzianego przez kamerê do postaci cyfrowej.
+TAK
+NIE

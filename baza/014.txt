@@ -1,0 +1,4 @@
+X01
+Jednym z celów analizy obrazów jest stopniowa redukcja zbêdnych/nadmiarowych informacji.
+TAK
+NIE

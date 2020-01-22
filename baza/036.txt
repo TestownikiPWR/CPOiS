@@ -1,0 +1,4 @@
+X10
+Segmentacja ma na celu podzia³ obrazu na odpowiednie obszary.
+TAK
+NIE

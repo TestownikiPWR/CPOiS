@@ -1,0 +1,4 @@
+X10
+Filtr dolnoprzepustowy mo¿e s³u¿yæ do pozbycia siê wysokoczêstotliwoœciowych zak³óceñ z obrazu.
+TAK
+NIE

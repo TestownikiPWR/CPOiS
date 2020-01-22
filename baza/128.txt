@@ -1,0 +1,4 @@
+X10
+Za pomoc¹ momentów zwyk³ych pierwszego rzêdu m(1,0) i m(0,1) mo¿na wyznaczyæ po³o¿enie œrodka ciê¿koœci.
+TAK
+NIE

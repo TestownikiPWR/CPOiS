@@ -1,0 +1,4 @@
+X10
+W modelu barw RGB zmieszanie wartoœci kolorów daje kolor bia³y.
+TAK
+NIE

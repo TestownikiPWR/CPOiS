@@ -1,0 +1,4 @@
+X10
+Operacja wyrównywania histogramu zmienia histogram.
+TAK
+NIE

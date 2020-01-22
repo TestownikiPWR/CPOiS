@@ -1,0 +1,4 @@
+X01
+Filtry nieliniowe, np. medianowy rozmywaj¹ zak³ócenia.
+TAK
+NIE

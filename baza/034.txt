@@ -1,0 +1,4 @@
+X10
+Dla kanonicznego uk³adu kamer problem dopasowania obrazów ulega uproszczeniu.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Filtry liniowe nie usuwaj¹ zak³óceñ, tylko je rozmywaj¹.
+TAK
+NIE

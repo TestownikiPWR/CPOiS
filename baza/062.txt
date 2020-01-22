@@ -1,0 +1,4 @@
+X10
+Filtr medianowy usuwa zak³ócenia impulsowe.
+TAK
+NIE

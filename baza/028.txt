@@ -1,0 +1,4 @@
+X10
+Gradient obrazu monochromatycznego pokazuje kierunek wzrostu jasnoœci.
+TAK
+NIE

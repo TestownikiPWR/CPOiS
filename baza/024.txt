@@ -1,0 +1,4 @@
+X01
+Skrót LUT pochodzi od s³ów: local uniform transformation.
+TAK
+NIE

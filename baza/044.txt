@@ -1,0 +1,4 @@
+X01
+Za pomoc¹ parametrów zewnêtrznych kamery mo¿liwa jest korekcja przekszta³ceñ geometrycznych obrazu.
+TAK
+NIE

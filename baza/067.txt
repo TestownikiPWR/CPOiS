@@ -1,0 +1,4 @@
+X10
+Na osi pionowej histogramu jest liczba (sztuk) pikseli.
+TAK
+NIE

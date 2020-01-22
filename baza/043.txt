@@ -1,0 +1,4 @@
+X10
+Filtracja za pomoc¹ masek Sobela ma charakter kierunkowy.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Macierz s¹siedztwa jest przyk³adem histogramu jednowymiarowego.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Za pomoc¹ operacji morfologicznych mo¿emy przeprowadziæ filtracjê szumów.
+TAK
+NIE

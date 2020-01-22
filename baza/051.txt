@@ -1,0 +1,4 @@
+X01
+Filtracja dolnoprzepustowa usuwa niskie czêstotliwoœci z obrazu.
+TAK
+NIE

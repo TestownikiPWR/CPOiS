@@ -1,0 +1,4 @@
+X10
+Filtr medianowy jest przyk³adem filtru nieliniowego.
+TAK
+NIE

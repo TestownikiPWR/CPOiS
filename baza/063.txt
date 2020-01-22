@@ -1,0 +1,4 @@
+X10
+Filtr górnoprzepustowy mo¿e s³u¿yæ do pozbycia siê niskoczêstotliwoœciowych zak³óceñ z obrazu.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Filtr górnoprzepustowy mo¿e s³u¿yæ do wykrywania krawêdzi na obrazie.
+TAK
+NIE

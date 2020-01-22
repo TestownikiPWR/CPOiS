@@ -1,0 +1,4 @@
+X10
+Aby zwiêkszyæ moc filtru Gaussa nale¿y wzi¹æ maskê o wiêkszym rozmiarze.
+TAK
+NIE

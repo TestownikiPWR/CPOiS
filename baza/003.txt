@@ -1,0 +1,4 @@
+X01
+Binaryzacja to proces konwersji dowolnego obrazu do obrazu monochromatycznego.
+TAK
+NIE

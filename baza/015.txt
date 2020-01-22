@@ -1,0 +1,4 @@
+X01
+Twierdzenie Wa¿ewskiego - Dawidenki definiuje, jak czêsto nale¿y próbkowaæ, aby z sygna³u dyskretnego mo¿na by³o odtworzyæ sygna³ pierwotny (ci¹g³y).
+TAK
+NIE

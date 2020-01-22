@@ -1,0 +1,4 @@
+X01
+W kanonicznym uk³adzie kamer problem dopasowania obrazów mocno siê komplikuje.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Filtracja górnoprzepustowa usuwa niskie czêstotliwoœci z obrazu.
+TAK
+NIE

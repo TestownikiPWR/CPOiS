@@ -1,0 +1,4 @@
+X01
+W interpolacji liniowej wyznaczenie jasnoœci nowego piksela odbywa siê przy u¿yciu œredniej arytmetycznej.
+TAK
+NIE

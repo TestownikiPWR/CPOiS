@@ -1,0 +1,4 @@
+X10
+Filtr Sobela wyznacza gradient obrazu.
+TAK
+NIE

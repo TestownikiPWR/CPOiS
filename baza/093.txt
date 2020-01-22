@@ -1,0 +1,4 @@
+X01
+Momenty zwyk³e s¹ niezale¿ne od po³o¿enia obiektu.
+TAK
+NIE

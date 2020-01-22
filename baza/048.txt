@@ -1,0 +1,4 @@
+X01
+Filtracja w dziedzinie czêstotliwoœci odbywa siê poprzez splot transformaty obrazu z mask¹ filtru.
+TAK
+NIE

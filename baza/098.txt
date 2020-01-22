@@ -1,0 +1,4 @@
+X01
+W sytuacji kiedy mamy do czynienia z nierównomiernoœci¹ oœwietlenia dobrze jest zastosowaæ progowanie globalne.
+TAK
+NIE

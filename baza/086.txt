@@ -1,0 +1,4 @@
+X10
+Transformata splotu dwóch funkcji jest równa iloczynowi transformat i odwrotnie.
+TAK
+NIE

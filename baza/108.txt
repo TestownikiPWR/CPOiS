@@ -1,0 +1,4 @@
+X10
+W kontekstowej filtracji obrazu zwiêkszenie rozmiaru maski filtru dolnoprzepustowego powoduje silniejsze rozmycie.
+TAK
+NIE

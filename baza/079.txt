@@ -1,0 +1,4 @@
+X01
+Na osi pionowej histogramu s¹ wartoœci jasnoœci pikseli na obrazie.
+TAK
+NIE

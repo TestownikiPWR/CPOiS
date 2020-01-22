@@ -1,0 +1,4 @@
+X01
+Filtracja dolnoprzepustowa opisuje relacjê pomiêdzy dwoma obrazami.(?)
+TAK
+NIE

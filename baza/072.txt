@@ -1,0 +1,4 @@
+X01
+Histogram obrazu binarnego zawiera 256 niezerowych pr¹¿ków.
+TAK
+NIE

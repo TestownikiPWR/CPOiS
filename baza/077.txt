@@ -1,0 +1,4 @@
+X01
+Na podstawie histogramu mo¿na wywnioskowaæ co znajduje siê na obrazie.
+TAK
+NIE

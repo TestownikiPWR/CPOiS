@@ -1,0 +1,4 @@
+X01
+Rozszerzenie sylwetki jest operacj¹ odwracaln¹.
+TAK
+NIE

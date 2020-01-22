@@ -1,0 +1,4 @@
+X10
+Skrót LUT pochodzi od s³ów: look-up table.
+TAK
+NIE

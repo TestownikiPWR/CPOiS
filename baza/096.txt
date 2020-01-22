@@ -1,0 +1,4 @@
+X01
+Progowanie iteracyjne wymaga wiedzy a priori na temat pomiaru i po³o¿enia obiektów na scenie.
+TAK
+NIE

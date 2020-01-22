@@ -1,0 +1,4 @@
+X10
+W transformacji Fouriera wspó³czynniki stoj¹ce przy funkcjach bazowych mog¹ byæ liczbami zespolonymi.
+TAK
+NIE

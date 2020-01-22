@@ -1,0 +1,4 @@
+X10
+W widmie obrazu po operacji przesuniêcia sk³adowa sta³a znajduje siê w œrodku.
+TAK
+NIE

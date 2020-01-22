@@ -1,0 +1,4 @@
+X10
+Filtracja górnoprzepustowa s³u¿y do detekcji obszarów szybkozmiennych z obrazu.
+TAK
+NIE

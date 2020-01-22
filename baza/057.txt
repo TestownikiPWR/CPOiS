@@ -1,0 +1,4 @@
+X01
+Filtr Sobela wykrywa krawêdzie niezale¿ne od ich kierunku.
+TAK
+NIE

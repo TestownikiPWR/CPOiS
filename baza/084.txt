@@ -1,0 +1,4 @@
+X10
+Transformacja Fouriera jest operacj¹ odwracaln¹.
+TAK
+NIE

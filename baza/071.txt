@@ -1,0 +1,4 @@
+X01
+Histogram po przeprowadzeniu operacji rozci¹gniêcia histogramu jest mo¿liwie p³aski.
+TAK
+NIE

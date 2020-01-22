@@ -1,0 +1,4 @@
+X10
+Operatory gradientowe wykorzystywane s¹ do detekcji krawêdzi oraz jej kierunku.
+TAK
+NIE

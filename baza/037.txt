@@ -1,0 +1,4 @@
+X01
+G³êbia bitowa okreœla iloœæ pikseli w obrazie.
+TAK
+NIE

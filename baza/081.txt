@@ -1,0 +1,4 @@
+X10
+Transformacja Fouriera jest operacj¹ liniow¹.
+TAK
+NIE

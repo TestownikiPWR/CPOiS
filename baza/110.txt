@@ -1,0 +1,4 @@
+X01
+Transformata Fouriera splotu dwóch funkcji jest równa splotowi transformat tych funkcji.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Transformata Fouriera iloczynu dwóch funkcji jest równa splotowi transformat tych funkcji.
+TAK
+NIE

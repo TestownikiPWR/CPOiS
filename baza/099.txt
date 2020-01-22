@@ -1,0 +1,4 @@
+X10
+W sytuacji kiedy mamy do czynienia z nierównomiernoœci¹ oœwietlenia dobrze jest zastosowaæ progowanie zmienne (dynamiczne).
+TAK
+NIE

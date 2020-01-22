@@ -1,0 +1,4 @@
+X10
+Momenty zwyk³e s¹ zale¿ne od orientacji obiektu.
+TAK
+NIE

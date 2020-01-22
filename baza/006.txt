@@ -1,0 +1,4 @@
+X10
+Przekszta³cenia punktowe s¹ operacjami wykonywanymi na pojedynczych pikselach obrazu.
+TAK
+NIE

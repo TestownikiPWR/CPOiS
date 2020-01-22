@@ -1,0 +1,4 @@
+X01
+Akwizycja obrazu jest procesem klasyfikacji obiektów oraz jej symbolicznej interpretacji.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Bazuj¹c na parametrach wewnêtrznych kamer systemu stereowizyjnego przekszta³ca siê obrazy do postaci jakby zosta³y one pobrane w kanonicznym uk³adzie kamer.
+TAK
+NIE

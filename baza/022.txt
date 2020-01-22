@@ -1,0 +1,4 @@
+X10
+Jednym z celów przetwarzania obrazów jest eliminacja "szkodliwych" informacji z obrazów, np. szumów.
+TAK
+NIE

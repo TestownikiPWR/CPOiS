@@ -1,0 +1,4 @@
+X01
+Filtr dolnoprzepustowy mo¿e s³u¿yæ do wykrywania krawêdzi na obrazie.
+TAK
+NIE

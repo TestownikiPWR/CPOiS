@@ -1,0 +1,4 @@
+X10
+Kwantyzacja polega na podziale zakresu wartoœci jasnoœci na skoñczon¹ liczbê przedzia³ów.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Histogram negatywu obrazu jest lustrzanym odbiciem histogramu obrazu oryginalnego.
+TAK
+NIE

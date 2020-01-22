@@ -1,0 +1,4 @@
+X10
+Jednym z celów analizy obrazów jest wyznaczenie liczbowych charakterystyk opisuj¹cych obiekty na obrazie.
+TAK
+NIE

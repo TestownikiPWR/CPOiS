@@ -1,0 +1,4 @@
+X01
+Triangulacja korzysta z zale¿noœci miêdzy bokiem a przek¹tn¹ kwadratu.
+TAK
+NIE

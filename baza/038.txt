@@ -1,0 +1,4 @@
+X10
+Liczba Eulera to ró¿nica liczby spójnych obszarów i (³¹cznej) liczby otworów.
+TAK
+NIE

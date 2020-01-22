@@ -1,0 +1,4 @@
+X10
+Transformata Hougha s³u¿y do wykrywania linii prostych na obrazie.
+TAK
+NIE

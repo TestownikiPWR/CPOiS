@@ -1,0 +1,4 @@
+X10
+Obraz monochromatyczny zawiera wiele poziomów jednej barwy.
+TAK
+NIE

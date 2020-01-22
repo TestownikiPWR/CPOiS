@@ -1,0 +1,4 @@
+X01
+W widmie obrazu po operacji przesuniêcia niskie czêstotliwoœci znajduj¹ siê na obrze¿ach widma.
+TAK
+NIE

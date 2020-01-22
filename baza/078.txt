@@ -1,0 +1,4 @@
+X10
+Obraz po przeprowadzeniu operacji rozci¹gania histogramu nie posiada wiêcej poziomów jasnoœci ni¿ obraz oryginalny.
+TAK
+NIE

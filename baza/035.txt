@@ -1,0 +1,4 @@
+X10
+W kanonicznym uk³adzie kamer linie epipolarne s¹ do siebie równoleg³e.
+TAK
+NIE

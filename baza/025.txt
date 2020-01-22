@@ -1,0 +1,4 @@
+X01
+Wynikiem analizy obrazu jest inny obraz.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Parametry wewnêtrzne kamery charakteryzuj¹ optyczne i geometryczne cechy kamery.
+TAK
+NIE

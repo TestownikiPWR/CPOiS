@@ -1,0 +1,4 @@
+X10
+Aby pozbyæ siê zjawiska aliasingu nale¿y zwiêkszyæ czêstotliwoœæ próbkowania.
+TAK
+NIE

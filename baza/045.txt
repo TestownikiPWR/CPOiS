@@ -1,0 +1,4 @@
+X01
+Filtracja górnoprzepustowa usuwa wysokie czêstotliwoœci z obrazu.
+TAK
+NIE

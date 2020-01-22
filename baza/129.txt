@@ -1,0 +1,4 @@
+X10
+Rozpoznawanie obrazu jest procesem klasyfikacji obiektów oraz jej symbolicznej interpretacji.
+TAK
+NIE

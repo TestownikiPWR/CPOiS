@@ -1,0 +1,4 @@
+X01
+Operacja wyrównania histogramu dodaje nowe informacje do obrazu, których nie by³o w obrazie przed wykonaniem tej operacji.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Triangulacja korzysta z w³asnoœci podobieñstwa trójk¹tów.
+TAK
+NIE

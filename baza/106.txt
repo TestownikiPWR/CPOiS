@@ -1,0 +1,4 @@
+X01
+Aby pozbyæ siê zjawiska aliasingu mo¿na dodaæ sk³adowe wysokich czêstotliwoœci do obrazu przed próbkowaniem.
+TAK
+NIE

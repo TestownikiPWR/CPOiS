@@ -1,0 +1,4 @@
+X10
+Operacja otwarcia sylwetki jest na³o¿eniem operacji rozszerzenia na wynik operacji zwê¿enia obrazu pierwotnego.
+TAK
+NIE

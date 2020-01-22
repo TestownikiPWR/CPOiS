@@ -1,0 +1,4 @@
+X10
+Operacja domkniêcia sylwetki jest na³o¿eniem operacji zwê¿ania na wynik operacji rozszerzenia obrazu pierwotnego.
+TAK
+NIE

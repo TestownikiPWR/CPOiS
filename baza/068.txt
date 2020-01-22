@@ -1,0 +1,4 @@
+X01
+Operacja wyrównania histogramu nigdy nie zmienia wysokoœci s³upków w histogramie.
+TAK
+NIE

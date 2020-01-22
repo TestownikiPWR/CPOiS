@@ -1,0 +1,4 @@
+X01
+W grafice wektorowej obraz jest zbudowany z prostokatnej siatki pikseli.
+TAK
+NIE

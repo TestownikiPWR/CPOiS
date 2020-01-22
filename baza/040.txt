@@ -1,0 +1,4 @@
+X01
+W modelu barw CMYK zmieszanie wszystkich kolorów daje kolor bia³y.
+TAK
+NIE

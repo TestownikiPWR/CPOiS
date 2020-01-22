@@ -1,0 +1,4 @@
+X10
+Operacja wyrównywania histogramu ma na celu poprawê kontrastu obrazu.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Krawêdzie otrzymane za pomoc¹ sprogowanej normy Sobela s¹ grubsze ni¿ otrzymane za pomoc¹ detektora Canny.
+TAK
+NIE
