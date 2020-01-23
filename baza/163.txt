@@ -1,0 +1,4 @@
+X10
+Aby zwiekszyc moc filtru jednorodnego nalezy wziac maske o wiekszym rozmiarze.
+TAK
+NIE

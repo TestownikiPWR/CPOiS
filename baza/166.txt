@@ -1,0 +1,4 @@
+X10
+Operacja rozciagania histogramu rozciaga zakres wartosci skladowych, tak aby histogram obejmowal wszystkie dostepne wartosci jasnosci.
+TAK
+NIE

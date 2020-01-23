@@ -1,0 +1,4 @@
+X10
+DFT ma wieksza zlozonosc obliczeniowa niz FFT
+TAK
+NIE

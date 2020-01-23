@@ -1,0 +1,4 @@
+X10
+W grafice rastrowej objetosc wykorzystywanej pamieci jest niezalezna od stopnia skomplikowania obrazu.
+TAK
+NIE

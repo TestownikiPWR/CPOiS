@@ -1,0 +1,4 @@
+X01
+DFT dzieli probki na parzyste i nieparzyste.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Norma Euklidesowa nie jest wrazliwa na gradient ?
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Po operacji erozji sylwetka zwieksza sie.
+TAK
+NIE

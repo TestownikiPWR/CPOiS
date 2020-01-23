@@ -1,0 +1,4 @@
+X01
+Liczba poziomow jasnosci na obrazie pierwotnym nie ma wplywu na zmiane jakosci obrazu po przeprowadzeniu wtornego probkowania.
+TAK
+NIE

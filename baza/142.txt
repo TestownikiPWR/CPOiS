@@ -1,0 +1,4 @@
+X01
+Filtracja widma polega na mnozeniu maski i funkcji
+TAK
+NIE

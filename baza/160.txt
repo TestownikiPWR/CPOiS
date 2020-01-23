@@ -1,0 +1,4 @@
+X01
+Rozmiar obrazu ma krytyczny wplyw na zmiane jakosci obrazu po przeprowadzeniu wtornej kwantyzacji.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Detektor krawedzi opraty na laplasjanie wymaga progowania.
+TAK
+NIE

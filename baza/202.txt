@@ -1,0 +1,4 @@
+X10
+Im wyzsza temperatura zrodla swiatla tym odcien staje sie chlodniejszy.
+TAK
+NIE

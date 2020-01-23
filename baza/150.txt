@@ -1,0 +1,4 @@
+X01
+Po operacji dylatacji sylwetka zmniejsza sie.
+TAK
+NIE

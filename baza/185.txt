@@ -1,0 +1,4 @@
+X10
+W FFT probki sa dzielone na dwie grupy: probki parzyste i nieparzyste
+TAK
+NIE

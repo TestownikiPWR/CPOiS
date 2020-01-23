@@ -1,0 +1,4 @@
+X01
+Filtr Prewitta korzysta z drugiej pochodnej
+TAK
+NIE

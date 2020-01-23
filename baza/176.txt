@@ -1,0 +1,4 @@
+X10
+Aby zwiekszyc moc filtru Gaussa nalezy zwiekszysc wartosci wag w masce.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Im nizsza temperatura zrodla swiatla tym odcien staje sie chlodniejszy.
+TAK
+NIE

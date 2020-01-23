@@ -1,0 +1,4 @@
+X01
+Rozpoznawanie obrazu jest procesem polegajacym na przetworzeniu obrazu widzianego przez kamere do postaci cyfrowej.
+TAK
+NIE

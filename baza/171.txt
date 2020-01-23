@@ -1,0 +1,4 @@
+X10
+FFT korzysta ze struktury motylkowej.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Transformacja Fouriera moze sluzyc do wykrywania okreslonych ksztaltow na obrazie.
+TAK
+NIE

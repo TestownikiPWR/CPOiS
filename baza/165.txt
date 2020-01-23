@@ -1,0 +1,4 @@
+X10
+Aby wydobyc krawedzie za pomoca filtracji kontekstowej suma wag maski filtru gornoprzepustowego powinna wynosic zero.
+TAK
+NIE

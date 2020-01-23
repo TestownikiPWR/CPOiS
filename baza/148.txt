@@ -1,0 +1,4 @@
+X10
+Detektor Canny wykorzystuje kierunek gradientu.
+TAK
+NIE

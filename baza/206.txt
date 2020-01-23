@@ -1,0 +1,4 @@
+X01
+Splot pokazuje kierunek wzrostu jasnosci w obrazach monochromatycznych.
+TAK
+NIE

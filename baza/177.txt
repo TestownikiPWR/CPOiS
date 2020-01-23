@@ -1,0 +1,4 @@
+X01
+W grafice wektorowej objetosc wykorzystanej pamieci jest niezalezna od stopnia skomplikowania obrazu.
+TAK
+NIE

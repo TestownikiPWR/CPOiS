@@ -1,0 +1,4 @@
+X01
+Erozja jest operacja odwracalna.
+TAK
+NIE

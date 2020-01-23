@@ -1,0 +1,4 @@
+X01
+W filtracji kontekstowej suma wag maski filtru gornoprzepustowego musi wynosic jeden.
+TAK
+NIE

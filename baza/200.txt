@@ -1,0 +1,4 @@
+X10
+Ogladajac histogram obrazu mozna powiedziec, ze im wyzszy prazek tym wiecej danej jasnosci jest na obrazie rzeczywistym.
+TAK
+NIE

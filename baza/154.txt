@@ -1,0 +1,4 @@
+X10
+Im mniejsza temperatura zrodla swiatla tym cieplejsza barwa -
+TAK
+NIE

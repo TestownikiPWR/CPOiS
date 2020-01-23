@@ -1,0 +1,4 @@
+X01
+Jezeli mamy jasne punkty w centrum widma to znaczy ze na obrazie jest duzo czerni
+TAK
+NIE

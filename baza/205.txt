@@ -1,0 +1,4 @@
+X10
+Operacja erozji dla obrazow monochromatycznych jest wykonywana przy pomocy filtru minimalnego.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Na podstawie histogramu mozna ocenic czy zdjecie jest przeswietlone.
+TAK
+NIE

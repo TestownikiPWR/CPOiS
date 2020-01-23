@@ -1,0 +1,4 @@
+X01
+W modelu barw CMYK kazdy kolor reprezentowany jest przez trzy skladowe: czerwona, niebieska, zielony. 
+TAK
+NIE

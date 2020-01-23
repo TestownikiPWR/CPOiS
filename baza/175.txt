@@ -1,0 +1,4 @@
+X01
+Zawartosc obiektu jest parametrem zaleznym od polozenia i rotacji.
+TAK
+NIE

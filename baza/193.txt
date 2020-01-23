@@ -1,0 +1,4 @@
+X10
+Jasne widmo blisko srodka swiadczy o wysokiej zawartosci niskich czestotliwosci na obrazie rzeczywistym.
+TAK
+NIE

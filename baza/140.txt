@@ -1,0 +1,4 @@
+X10
+Norma taksowkowa jest wrazliwa na gradient ?
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Obraz wykonany w technice rastrowej mozna skalowac bez utraty jasnosci obrazu.
+TAK
+NIE

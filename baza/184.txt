@@ -1,0 +1,4 @@
+X10
+Podstawowymi operacjami morfologicznymi sa operacje rozszerzania i zwezania.
+TAK
+NIE

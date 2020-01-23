@@ -1,0 +1,4 @@
+X01
+FFT jest przyblizeniem DFT.
+TAK
+NIE

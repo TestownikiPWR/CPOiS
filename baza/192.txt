@@ -1,0 +1,4 @@
+X10
+Progowanie histerezowe stosuje sie w przypadkach, gdy klasy pikseli nie sa wyraznie odseparowane.
+TAK
+NIE

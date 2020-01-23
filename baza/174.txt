@@ -1,0 +1,4 @@
+X01
+Operator Prewitta daje lepsze rezultaty w wykrywaniu krawedzi niz operator Sobela.
+TAK
+NIE

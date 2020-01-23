@@ -1,0 +1,4 @@
+X01
+Krawedzie otrzymane z detektora Canny sa grubosci co najmniej dwoch pikseli.
+TAK
+NIE

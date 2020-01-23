@@ -1,0 +1,4 @@
+X01
+Probkowanie ze zbyt wysoka czestotliwoscia moze prowadzic do pojawienia sie zjawiska aliasingu.
+TAK
+NIE

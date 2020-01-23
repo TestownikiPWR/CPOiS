@@ -1,0 +1,4 @@
+X10
+Model barw RGB ma postac szescianu.
+TAK
+NIE

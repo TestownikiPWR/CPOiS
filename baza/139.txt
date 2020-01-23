@@ -1,0 +1,4 @@
+X01
+Transformata fouriera transformuje z przestrzeni rzeczywistej do trojwymiarowej
+TAK
+NIE

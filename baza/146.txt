@@ -1,0 +1,4 @@
+X01
+Suma elementow filtru dolnoprzepustowego powinna wynosic 1.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Segmentacja ma na celu rozpoznanie tego co znajduje sie na obrazie.
+TAK
+NIE

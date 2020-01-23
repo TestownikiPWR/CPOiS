@@ -1,0 +1,4 @@
+X01
+Histogram negatywu obrazu jest zawsze taki sam jak histogram obrazu oryginalnego.
+TAK
+NIE

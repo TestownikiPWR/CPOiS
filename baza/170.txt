@@ -1,0 +1,4 @@
+X10
+W modelu HSV przestrzen barw jest stozkiem.
+TAK
+NIE

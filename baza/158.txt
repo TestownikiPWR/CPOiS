@@ -1,0 +1,4 @@
+X01
+Krawedzie otrzymane za pomoca zpropagowanej normy Sobela sa ciensze niz otrzymane za pomoca detektora Canny.
+TAK
+NIE

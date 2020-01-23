@@ -1,0 +1,4 @@
+X01
+Wartosci wag w masce filtru Gaussa odpowiadaja wartosciom dwuwymiarowej funkcji kwadratowej.
+TAK
+NIE

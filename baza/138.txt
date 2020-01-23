@@ -1,0 +1,4 @@
+X10
+Operacja otwarcia pozwala pozbyc sie wypustek
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Model barw CMYK jest modelem addytywnym.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X10
+Jednym z celow analizy obrazow jest pomiar wartosci okreslonych cech obiektow na obrazie.
+TAK
+NIE

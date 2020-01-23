@@ -1,0 +1,4 @@
+X01
+Norma euklidesowa nie wymaga pierwiastkowania
+TAK
+NIE

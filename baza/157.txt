@@ -1,0 +1,4 @@
+X10
+Kontekstowa filtracja obrazu korzysta z macierzy konwolucji
+TAK
+NIE

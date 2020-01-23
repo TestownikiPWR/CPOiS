@@ -1,0 +1,4 @@
+X10
+FFT jest odpowiednia tylko dla sygnalow o liczbie probek 2^n.
+TAK
+NIE

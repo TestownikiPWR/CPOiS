@@ -1,0 +1,4 @@
+X10
+Filtracja w dziedzinie czestotliwosci odbywa sie poprzez przemnozenie widma obrazu z maska filtru.
+TAK
+NIE

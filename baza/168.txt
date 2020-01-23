@@ -1,0 +1,4 @@
+X10
+Za pomoca operacji morfologicznych mozna wyznaczyc szkielet sylwetki.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Progowanie histerezowe odbywa sie na podstawie wartosci jednego progu.
+TAK
+NIE

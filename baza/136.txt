@@ -1,0 +1,4 @@
+X10
+W detektorze Canny krawedzie maja szerokosc 1px.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+Aby pozbyc sie zjawiska aliasingu mozna zmniejszyc czestotliwosc probkowania.
+TAK
+NIE

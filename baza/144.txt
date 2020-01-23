@@ -1,0 +1,4 @@
+X01
+W grafice rastrowej obraz rysowany jest za pomoca punktow kresek itp., wiec zapamietywane sa charakterystyczne dane figur.
+TAK
+NIE

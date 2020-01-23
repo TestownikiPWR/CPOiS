@@ -1,0 +1,4 @@
+X10
+W modelu barw CMYK kolor reprezentowany jest przez skladowe: turkusowa, purpurowa, zolta i czarna.
+TAK
+NIE

@@ -1,0 +1,4 @@
+X01
+W modelu RGB kolor reprezentowany jest przez trzy skladowe: turkusowa , purpurowa, zolta.
+TAK
+NIE
