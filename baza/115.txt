@@ -1,4 +1,4 @@
 X10
-G³êbia bitowa jest miar¹ liczy bitów przechowuj¹cych informacjê o kolorze dla jednego piksela obrazu cyfrowego.
+GÅ‚Ä™bia bitowa jest miarÅ¡ liczby bitÃ³w przechowujÅ¡cych informacjÄ™ o kolorze dla jednego piksela obrazu cyfrowego.
 TAK
 NIE
