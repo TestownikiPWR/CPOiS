@@ -1,0 +1,6 @@
+X0000
+Do detekcji wszystkich krawędzi (niezależnie od kierunku) na obrazie wykorzystuje się
+maksimum drugiej pochodnej obrazu
+maksimum pierwszej pochodnej
+minimum pierwszej pochodnej obrazu
+zmianę znaku (przejście przez 0) drugiej pochodnej obrazu

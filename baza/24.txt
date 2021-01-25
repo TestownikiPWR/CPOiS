@@ -1,0 +1,6 @@
+X0000
+W progowaniu lokalnym
+próg dobierany jest na podstawie całego obrazu
+wartość progu jest stała dla całego obrazu
+wartość progu może być różna w zależności od danego obszaru
+wartość progu zwykle jest dobierana na podstawie histogramu

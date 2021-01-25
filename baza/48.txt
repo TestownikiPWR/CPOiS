@@ -1,0 +1,6 @@
+X0000
+Operator, który różniczkuje w określonym kierunku i jednocześnie wygładza w kierunku ortogonalnym to
+operator Gaussa
+operator Laplace'a
+operator Robertsa
+operator Sobela

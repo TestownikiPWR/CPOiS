@@ -1,0 +1,6 @@
+X0000
+Operacje histogramowe należą do grupy
+transformacji globalnych
+transformacji jednorodnych
+transformacji lokalnych
+transformacji punktowych

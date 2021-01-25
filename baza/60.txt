@@ -1,0 +1,6 @@
+X0000
+W widmie transformaty Fouriera po tzw. przesunięciu
+im dalej od składowej stałej tym niższe częstotliwości
+składowa stała jest górnym prawym rogu
+składowe odpowiadające za niskie częstotliwości są blisko składowej stałej
+składowe odpowiadające za wysokie częstotliwości są blisko składowej stałej

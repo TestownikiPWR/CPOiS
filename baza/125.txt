@@ -1,0 +1,6 @@
+X0000
+W celu przeprowadzenia wygładzenia należy przeprowadzić splot obrazu z maską
+o nieujemnych wartościach wag
+o zarówno dodatnich jak i ujemnych wartościach wag
+w której suma wartości wag będzie dowolna
+w której suma wartości wag będzie równa 0

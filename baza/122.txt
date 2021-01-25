@@ -1,0 +1,6 @@
+X0000
+Zakładamy, że przeprowadzamy filtrację w dziedzinie częstotliwości. Aby w większym stopniu rozmyć obraz
+należy składowe widma odpowiadające za wysokie częstotliwości przemnożyć przez dużą liczbę
+należy wzmocnić wartość składowej stałej widma
+należy zmniejszyć częstotliwość graniczną filtru
+należy zwiększyć częstotliwość graniczną filtru

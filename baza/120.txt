@@ -1,0 +1,6 @@
+X0000
+Dolnoprzepustowe filtry liniowe
+fizycznie eliminują zakłócenia z obrazu
+pokazują kierunek wzrostu jasności na obrazie
+rozpraszają zakłócenia na sąsiednie piksele przez co je osłabiają
+wykrywają krawędzie

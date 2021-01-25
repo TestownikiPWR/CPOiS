@@ -1,0 +1,6 @@
+X0000
+Detektor Frei-Chen służy do
+detekcji jednolitych obszarów
+detekcji krawędzi
+detekcji obszarów o określonej fakturze
+detekcji okręgów

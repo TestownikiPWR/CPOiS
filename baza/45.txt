@@ -1,0 +1,6 @@
+X0000
+Z histogramu obrazu cyfrowego możemy odczytać
+charakterystykę częstotliwościową obrazu
+dokładną informację na temat rozmieszczenia punktów o danej jasności na obrazie
+liczbę punktów na obrazie posiadającą daną jasność
+miejsca na obrazie, w których występują szybkie zmiany jasności

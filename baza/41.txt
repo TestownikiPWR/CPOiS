@@ -1,0 +1,6 @@
+X0000
+Do aproksymacji krawędzi przydatna będzie
+transformacja Fouriera
+transformacja Hougha
+transformacja Laplace'a
+transformacja Z

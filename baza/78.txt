@@ -1,0 +1,6 @@
+X0000
+Celem segmentacji jest
+pozostawienie na obrazie istotnych informacji z punktu widzenia dalszego przetwarzania
+pozostawienie na obrazie zbędnych informacji z punktu widzenia dalszego przetwarzania
+redukcja na obrazie istotnych informacji z punktu widzenia dalszego przetwarzania
+usunięcie szumu

@@ -1,0 +1,6 @@
+X0000
+Filtr wykrywający krawędzie we wszystkich kierunkach oparty o gradient Sobela jest przykładem
+filtru dolnoprzepustowego
+filtru kombinowanego
+filtru liniowego
+filtru maksymalnego

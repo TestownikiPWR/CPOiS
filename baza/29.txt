@@ -1,0 +1,6 @@
+X0000
+Filtracja w dziedzinie częstotliwości jest łatwa ponieważ
+sprowadza się do iloczynu widma obrazu z maską filtru
+sprowadza się do splotu widma obrazu z maską filtru
+sprowadza się do sumy obrazu i maski filtru
+sprowadza się do sumy widma obrazu i maski filtru

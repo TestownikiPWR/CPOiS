@@ -1,0 +1,6 @@
+X0000
+W przekształceniach punktowych
+brane jest pod uwagę sąsiedztwo danego punktu
+piksele o jednakowej jasności są traktowane w różny sposób
+ulega zmianie relacja geometryczna elementów na obrazie
+wszystkie piksele o jednakowej jasności są traktowane w taki sam sposób

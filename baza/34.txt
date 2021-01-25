@@ -1,0 +1,6 @@
+X0000
+Wejściem transformacji Hougha muszą być obrazy
+kolorowe
+monochromatyczne
+wstępnie poddane filtracji dolnoprzepustowej
+z wstępnie wykrytymi krawędziami przez detektor krawędzi

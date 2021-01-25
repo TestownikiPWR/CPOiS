@@ -1,0 +1,6 @@
+X0000
+Ekscentryczność to
+jednowymiarowa funkcja reprezentująca brzeg sylwetki
+rzutowanie sylwetki na oś pionową
+stosunek długości wielkiej osi do małej osi elipsy o takim samym momencie bezwładności jak sylwetka
+współczynnik, którego wartość jest równa odwrotności wartości współczynnika zwartości

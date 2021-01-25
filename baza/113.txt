@@ -1,0 +1,191 @@
+X000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+Wykorzystany 20 min. 1 sek
+! http://del..edu.pl
+" @.edu.pl
+#$ #% #!
+0
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00co najwyżej 2fhmax, gdzie fhmax - składowa harmoniczna o najwyższej częstotliwości sygnału
+1,00dyskretyzacji i kwantyzacji
+1,00ekscentryczności
+1,00należy zadbać o to by tl = tr
+1234567891011121314151617181920212223
+24
+Cyfrowe przetwarzanie obrazów i sygnałów E04-52alearningu PWr
+Dysparycja rośnie wraz z oddalaniem się punktu od systemu stereowizyjnego.
+Dyspersja rośnie wraz z zbliżaniem się punktu do systemu stereowizyjnego.
+Dział Kształcenia
+Gaussa
+Jesteś zalogowany(a) jako Niedziółka Paweł (Wyloguj)Ustawicznego i E-
+Klauzula informacyjna o przetwarzaniu danych osobowych.
+Laplace'a
+Nawigacja w teście
+Ocena 17,00 pkt. na 24,00 pkt. możliwych do uzyskania (71%)
+Ocena: 0,00 zkrawędź ma określony kształt
+Ocena: 0,00 znorma maksimum
+Ocena: 0,00 zpomiar wartości określonych cech
+Ocena: 0,00 zpotrzebuje histogramu kumulacyjnego
+Ocena: 0,00 zpunkt w przestrzeni i ogniska dwóch kamer
+Ocena: 0,00 zsumę punktów należących do sylwetki
+Ocena: 0,00 zzależną od jasności tego obszaru
+Ocena: 1,00 z
+Ocena: 1,00 z
+Ocena: 1,00 z
+Ocena: 1,00 zDysparycja maleje wraz z zbliżaniem się punktu do systemu stereowizyjnego.
+Ocena: 1,00 zSobela
+Ocena: 1,00 zbrane jest pod uwagę sąsiedztwo danego punktu
+Ocena: 1,00 zmoże być przydatna przy konstruowaniu detektora krawędzi
+Ocena: 1,00 zo nieujemnych wartościach wag
+Ocena: 1,00 zodwracalna
+Ocena: 1,00 zpomiar wartości określonych cech
+Ocena: 1,00 zprogowanie iteracyjne
+Ocena: 1,00 zredukcja na obrazie istotnych informacji z punktu widzenia dalszego przetwarzania
+Ocena: 1,00 zskładowe odpowiadające za niskie częstotliwości są daleko składowej stałej
+Ocena: 1,00 ztylko liniami pionowymi
+Ocena: 1,00 zwartość progu może być różna w zależności od obszaru
+Ocena: 1,00 zwspółczynnik, którego wartość jest równa odwrotności wartości współczynnika
+Ocena: 1,00 zwydobywa kontur
+Oflaguj
+Oflaguj
+Oflaguj
+Oflaguj
+Oflaguj
+OflagujDysparycja rośnie wraz z zbliżaniem się punktu do systemu stereowizyjnego.
+Oflagujjednorodnym
+Oflagujmoment centralny rzędu 0
+Oflagujnie musimy czynić żadnych założeń
+Oflagujnie zmienia liczby poziomów jasności
+Oflagujnilpotentna
+Oflagujnorma Frobeniusa
+Oflagujotrzymanie opisu obrazu w postaci liczb lub słów
+Oflagujotrzymanie opisu obrazu w postaci liczb lub słów
+Oflagujpozostawienie na obrazie zbędnych informacji z punktu widzenia dalszego przetwarzania
+Oflagujpunkt w przestrzeni i obrazy tego punktu na matrycach kamer
+Oflagujskładowe odpowiadające za wysokie częstotliwości są blisko składowej stałej
+Oflagujtylko liniami lub okręgami
+Oflagujujemną
+Oflagujuwydatnia krawędzie na obrazie
+Oflagujuzupełnia dziury i zatoki
+Oflagujw której suma wartości wag będzie równa 0
+Oflagujwartość progu jest zależna od współrzędnych przestrzennych obrazu
+Oflagujwszystkie piksele o jednakowej jasności są traktowane w taki sam sposób
+Pobierz aplikację mobilną
+Pokaż jedną stronę na raz
+PytanieAby przedstawić obraz rzeczywisty w postaci skończonej liczby wartości funkcji jasności należy
+PytanieCelem przetwarzania obrazów jest
+PytanieCelem przetwarzania obrazów jest
+PytanieCelem segmentacji jest
+PytanieDetektor Canny wykorzystuje
+PytanieFiltracja dolnoprzepustowa
+PytanieKorzystając z transformacji Hougha zakładamy, że
+PytanieLaplasjan na obszarze o jednakowej jasności zwróci wartość
+PytanieNorma dająca wynik niezależny od orientacji gradientu to
+PytanieOperacja rozciągnięcia histogramu
+PytaniePole powierzchni sylwetki nie może być wyliczone jako
+PytanieSygnatura to
+PytanieW celu wykrycia krawędzi należy przeprowadzić splot obrazu z maską
+PytanieW celu wyznaczenia gradientu jasności na obrazie należy posłużyć się filtrem
+PytanieW detektorze Canny wsytępuje progowanie podwójne. Jeżeli tl oznacza próg liberalny a tr próg
+PytanieW morfologii matematycznej operacja otwarcia
+PytanieW morfologii matematycznej operacja zwężania jest
+PytanieW progowaniu globalnym
+PytanieW przekształceniach punktowych
+PytanieW stereowizji płaszczyznę epipolarną wyznaczają punkty
+PytanieW widmie transformaty Fouriera po tzw. przesunięciu
+PytanieZa pomocą transformacji Hougha możemy aproksymować krawędzie będące
+PytanieZałóżmy, że obraz z prawej kamery jest obrazem odniesienia. Zaznać poprawne zdanie.
+PytanieZgodnie z twierdzeniem o próbkowaniu, minimalna częstotliwość próbkowania gwarantująca
+Zakończ przegląd
+Zakończ przegląd
+addytywna
+binaryzacji i kwantyzacji
+co najmniej 2fhmin, gdzie fhmin - składowa harmoniczna o najniższej częstotliwości sygnału
+co najwyżej 2fhmin, gdzie fhmin - składowa harmoniczna o najniższej częstotliwości sygnału
+czas
+dodatnią
+dowolnym kształtem
+eliminacja zbędnych informacji z obrazu
+idempotentna
+jednowymiarowa funkcja reprezentująca brzeg sylwetki
+krzywizna krawędzi jest mała
+moment centralny znormalizowany rzędu 0
+moment zwykły rzędu 0
+może być detektorem krawędzi
+należy zadbać o to by tl < tr
+należy zadbać o to by tl > tr
+norma euklidesowa
+norma taksówkowa
+ognisko jednej kamery i obrazy punktu na matrycach kamer
+piksele o jednakowej jasności są traktowane w różny sposób
+poddać go procesom
+powoduje, że histogram jest nierównomiernie rozciągany na cały zakres dostępnych jasności
+pozostawienie na obrazie istotnych informacji z punktu widzenia dalszego przetwarzania
+progowanie histerezowe
+progowanie warunkowe
+progowanie z dolnym progiem
+próg jest zależny od treści obrazu w pewnym otoczeniu
+punkt w przestrzeni i punkty główne matryc kamer
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanie
+pytanieco najmniej 2fhmax, gdzie fhmax - składowa harmoniczna o najwyższej częstotliwości sygnału
+pytaniedyskretyzacji i próbkowania
+pytaniestosunek długości wielkiej osi do małej osi elipsy o takim samym momencie bezwładności jak
+pytaniezależność pomiędzy tl i tr nie ma znaczenia
+radykalny to
+rzutowanie sylwetki na oś pionową
+segmentacji i kwantyzacji
+składowa stała jest w centrum
+składowa stała jest w górnym lewym rogu
+stopniowa redukcja informacji na obrazie
+sylwetka
+tylko liniami poziomymi
+ulega zmianie relacja geometryczna elementów na obrazie
+usunięcie szumu
+usuwa drobne obiekty o charakterze półwyspu czy wypustki
+w której suma wartości wag będzie dowolna
+w której suma wartości wag będzie równa 1
+wartość progu zwykle jest dobierana na podstawie histogramu
+wygładza obraz
+wyznacza szkielet
+wyznaczenie liczbowych charakterystyk
+wyznaczenie liczbowych charakterystyk
+zachowanie informacji o sygnale jest równa
+znamy przybliżone położenie krawędzi z obrazu o obniżonej rozdzielczości
+zwiększa kontrast

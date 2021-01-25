@@ -1,0 +1,6 @@
+X0000
+W procesie rektyfikacji
+jest wyznaczana mapa głębi
+obrazy są przekształcane do postaci jakby zostały pobrane w kanonicznym układzie kamer
+są usuwane zakłócenia addytywne
+są wyszukiwane odpowiadające sobie piksele w obrazie lewym i prawym

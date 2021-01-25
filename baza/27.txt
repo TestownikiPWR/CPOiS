@@ -1,0 +1,6 @@
+X0000
+Do wykrycia pionowych krawędzi pomocna może być
+maska Gaussa
+maska Laplace'a
+maska Prewitta
+maska uśredniająca

@@ -1,0 +1,6 @@
+X0000
+Opis kształtu przy pomocy R-tablicy jest
+niezależny od skali i orientacji
+niezależny od skali, ale zależny od orientacji
+zależny od skali i orientacji
+zależny od skali, ale niezależny od orientacji

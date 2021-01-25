@@ -1,0 +1,6 @@
+X0000
+Parametrem zewnętrznym kamery jest
+odległość pomiędzy środkami rzutowania
+ogniskowa kamery
+rozmiar piksela matrycy kamery
+współrzędne punktu środkowego

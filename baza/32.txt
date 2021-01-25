@@ -1,0 +1,6 @@
+X0000
+Operacja wyrównania histogramu
+jest detektorem cech
+jest operacją liniową
+potrzebuje histogramu kumulacyjnego
+zawsze nie zmienia liczby poziomów jasności

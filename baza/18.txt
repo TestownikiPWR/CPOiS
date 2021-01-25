@@ -1,0 +1,6 @@
+X0000
+Z maską którego filtru korelacja i splot dadzą ten sam efekt?
+filtru Gaussa
+filtru Prewitta
+filtru Sobela
+filtru medianowego

@@ -1,0 +1,6 @@
+X0000
+Celem tłumienia niemaksymalnego w detektorze Canny jest
+generowanie przez detektor krawędzi o grubości 1 piksela
+generowanie przez detektor krawędzi o zadanej grubości
+zapewnienie, że pikselem krawędzi jest piksel, którego wartość jasności jest poniżej zadanego progu
+zapewnienie, że pikselem krawędzi jest piksel, którego wartość jasności jest powyżej zadanego progu

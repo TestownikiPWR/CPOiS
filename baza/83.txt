@@ -1,0 +1,6 @@
+X0000
+Transformacja Fouriera jest przykładem
+transformacji globalnej
+transformacji histogramowej
+transformacji lokalnej
+transformacji punktowej

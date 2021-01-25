@@ -1,0 +1,6 @@
+X0000
+W układzie kanonicznym kamer
+linie epipolarne przecinają się w punkcie epipolarnym
+linie epipolarne są równoległe do wierszy obrazu
+ogniskowe kamer nie mają znaczenia
+osie kamer przecinają się

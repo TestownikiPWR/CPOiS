@@ -1,0 +1,6 @@
+X0000
+Detektor Canny wykorzystuje
+progowanie histerezowe
+progowanie iteracyjne
+progowanie warunkowe
+progowanie z dolnym progiem

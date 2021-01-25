@@ -1,0 +1,6 @@
+X0000
+W detektorze Canny
+zmniejszenie progu liberalnego powoduje, że wykryte krawędzie są krótsze
+zmniejszenie progu radykalnego zmniejsza liczbę wykrytych krawędzi
+zwiększenie progu liberalnego powoduje, że wykryte krawędzie są dłuższe
+zwiększenie progu radykalnego zmniejsza liczbę wykrytych krawędzi

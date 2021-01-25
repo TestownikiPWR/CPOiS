@@ -1,0 +1,6 @@
+X0000
+W modelu barw CMY w wyniku zmieszania w równym stopniu wszystkich barw podstawowych otrzymuje się kolor
+biały
+czarny
+czerwony
+niebieski

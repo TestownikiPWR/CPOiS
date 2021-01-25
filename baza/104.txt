@@ -1,0 +1,445 @@
+X00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+NIE
+Aby otrzymać obraz z poprawionymi krawędziami za pomocą filtracji kontekstowej suma wag maski
+Aby pozbyć się zjawiska aliasingu można dodać składowe wysokich częstotliwości do obrazu przed
+Aby pozbyć się zjawiska aliasingu można zmniejszyć częstotliwość próbkowania.
+Aby pozbyć się zjawiska aliasingu należy zwiększyć częstotliwość próbkowania.
+Aby wydobyć krawędzie za pomocą filtracji kontekstowej suma wag maski filtru górnoprzepustowego
+Aby zwiększyć moc filtru Gaussa należy wziąć maskę o większym rozmiarze.
+Aby zwiększyć moc filtru Gaussa należy wziąć maskę o większym rozmiarze.
+Aby zwiększyć moc filtru Gaussa należy zwiększyć wartości wag w masce.
+Aby zwiększyć moc filtru jednorodnego należy wziąć maskę o większym rozmiarze.
+Aby zwiększyć moc filtru jednorodnego należy wziąć maskę o większym rozmiarze.
+Akwizycja obrazu jest procesem klasyfikacji obiektów oraz jej symbolicznej interpretacji.
+Akwizycja obrazu jest procesem polegającym na przetworzeniu obrazu widzianego przez kamerę do
+Bazując na parametrach wewnętrznych kamer systemu stereowizyjnego przekształca się obrazy do
+Binaryzacja to proces konwersji dowolnego obrazu do obrazu binarnego.
+DFT dzieli próbki na parzyste i nieparzyste.
+DFT ma większa złożoność obliczeniowa niż FFT
+Detektor Canny wykorzystuje kierunek gradientu.
+Detektor krawędzi oparty na laplasjanie wymaga progowania.
+Dla kanonicznego układu kamer problem dopasowania obrazów ulega uproszczeniu.
+Do przeprowadzenia operacji morfologicznej potrzebujemy obrazu i elementu strukturalnego.
+Dyskretyzacja to dwuwymiarowe próbkowanie w ściśle określonych miejscach sygnału analogowego.
+Erozja jest operacją odwracalną.
+Erozja jest operacją odwracalną.
+FFT jest odpowiednia tylko dla sygnałów o liczbie próbek 2^n.
+FFT jest przybliżeniem DFT.
+FFT korzysta ze struktury motylkowej.
+Filtr Laplace'a wyznacza gradient obrazu.
+Filtr Prewitta korzysta z drugiej pochodnej
+Filtr Sobela wykrywa krawędzie niezależne od ich kierunku.
+Filtr Sobela wyznacza gradient obrazu.
+Filtr dolnoprzepustowy może służyć do pozbycia się wysokoczęstotliwościowych zakłóceń z obrazu.
+Filtr dolnoprzepustowy może służyć do wykrywania krawędzi na obrazie.
+Filtr górnoprzepustowy może służyć do pozbycia się niskoczęstotliwościowych zakłóceń z obrazu.
+Filtr górnoprzepustowy może służyć do wykrywania krawędzi na obrazie.
+Filtr medianowy jest przykładem filtru nieliniowego.
+Filtr medianowy usuwa zakłócenia impulsowe.
+Filtracja dolnoprzepustowa opisuje relację pomiędzy dwoma obrazami.(?)
+Filtracja dolnoprzepustowa usuwa niskie częstotliwości z obrazu.
+Filtracja górnoprzepustowa służy do detekcji obszarów szybkozmiennych z obrazu.
+Filtracja górnoprzepustowa służy do ekstrakcji obszarów szybkozmiennych z obrazów.
+Filtracja górnoprzepustowa służy do ekstrakcji obszarów wolnozmiennych z obrazu.
+Filtracja górnoprzepustowa usuwa niskie częstotliwości z obrazu.
+Filtracja górnoprzepustowa usuwa wysokie częstotliwości z obrazu.
+Filtracja w dziedzinie częstotliwości odbywa się poprzez przemnożenie widma obrazu z maską filtru.
+Filtracja w dziedzinie częstotliwości odbywa się poprzez splot transformaty obrazu z maską filtru.
+Filtracja w dziedzinie rzeczywistej polega na wykonaniu mnożenia obrazu i odpowiedniej maski filtru.
+Filtracja w dziedzinie rzeczywistej polega na wykonaniu splotu obrazu i odpowiedniej maski filtru.
+Filtracja widma polega na mnożeniu maski i funkcji
+Filtracja za pomocą masek Sobela ma charakter kierunkowy.
+Filtry liniowe nie usuwają zakłóceń, tylko je rozmywają.
+Filtry nieliniowe, np. medianowy rozmywają zakłócenia.
+Gradient obrazu monochromatycznego pokazuje kierunek wzrostu jasności.
+Głębia bitowa jest miarą liczy bitów przechowujących informację o kolorze dla jednego piksela
+Głębia bitowa określa ilość pikseli w obrazie.
+Histogram negatywu obrazu jest lustrzanym odbiciem histogramu obrazu oryginalnego.
+Histogram negatywu obrazu jest taki sam jak histogram obrazu oryginalnego.
+Histogram negatywu obrazu jest zawsze taki sam jak histogram obrazu oryginalnego.
+Histogram obrazu binarnego zawiera 256 niezerowych prążków.
+Histogram obrazu binarnego zawiera dwa niezerowe prążki.
+Histogram po przeprowadzeniu operacji rozciągnięcia histogramu jest możliwie płaski.
+Im mniejsza temperatura źródła światła tym cieplejsza barwa -
+Im niższa temperatura źródła światła tym odcień staje się chłodniejszy.
+Im wyższa temperatura źródła światła tym odcień staje się chłodniejszy.
+Jasne widmo blisko środka świadczy o wysokiej zawartości niskich częstotliwości na obrazie
+Jednym z celów analizy obrazów jest pomiar wartości określonych cech obiektów na obrazie.
+Jednym z celów analizy obrazów jest stopniowa redukcja zbędnych/nadmiarowych informacji.
+Jednym z celów analizy obrazów jest wyznaczenie liczbowych charakterystyk opisujących obiekty na
+Jednym z celów przetwarzania obrazów jest eliminacja "szkodliwych" informacji z obrazów, np.
+Jeśli przyjmiemy, że obraz ma rozmiar W x H, to ostatni prążek histogramu kumulacyjnego przyjmie
+Jeżeli mamy jasne punkty w centrum widma to znaczy że na obrazie jest dużo czerni
+Kontekstowa filtracja obrazu korzysta z macierzy konwolucji
+Kontekstowa filtracja obrazu korzysta z macierzy konwolucji.
+Krawędzie otrzymane z detektora Canny są grubości co najmniej dwóch pikseli.
+Krawędzie otrzymane za pomocą sprogowanej normy Sobela są grubsze niż otrzymane za pomocą
+Krawędzie otrzymane za pomocą spropagowanej normy Sobela są cieńsze niż otrzymane za pomocą
+Kwantyzacja polega na podziale zakresu wartości jasności na skończoną liczbę przedziałów.
+Kwantyzacja równomiernie dzieli skalę jasności na równe podprzedziały.
+Liczba Eulera to różnica liczby spójnych obszarów i (łącznej) liczby otworów.
+Liczba poziomów jasności na obrazie pierwotnym nie ma wpływu na zmianę jakości obrazu po
+Macierz sąsiedztwa jest przykładem histogramu jednowymiarowego.
+Model barw CMYK jest modelem addytywnym.
+Model barw RGB jest modelem addytywnym.
+Model barw RGB ma postać sześcianu.
+Moment zwykły rzędu 0 opisuje pole powierzchni sylwetki.
+Momenty Hu są niezależne od orientacji.
+Momenty Hu są zależne od orientacji.
+Momenty Hu są zależne od położenia.
+Momenty Hu są zależne od skali.
+Momenty centralne są niezależne od skali obiektu.
+Momenty centralne znormalizowane są niezależnie od skali obiektu.
+Momenty zwykłe są niezależne od położenia obiektu.
+Momenty zwykłe są niezależne od skali obiektu.
+Momenty zwykłe są zależne od orientacji obiektu.
+Momenty zwykłe są zależne od położenia obrazu.
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+Na osi pionowej histogramu jest liczba (sztuk) pikseli.
+Na osi pionowej histogramu są wartości jasności pikseli na obrazie.
+Na podstawie histogramu można ocenić czy zdjęcie jest prześwietlone.
+Na podstawie histogramu można wywnioskować co znajduje się na obrazie.
+Norma Euklidesowa nie jest wrażliwa na gradient ?
+Norma euklidesowa nie wymaga pierwiastkowania
+Norma taksówkowa jest wrażliwa na gradient ?
+Obraz monochromatyczny zawiera wiele poziomów jednej barwy.
+Obraz po przeprowadzeniu operacji rozciągania histogramu nie posiada więcej poziomów jasności niż
+Obraz po przeprowadzeniu operacji rozciągania histogramu posiada więcej poziomów jasności niż
+Obraz wykonany w technice rastrowej można skalować bez utraty jasności obrazu.
+Oglądając histogram obrazu można powiedzieć, że im wyższy prążek tym więcej danej jasności jest na
+Operacja domknięcia sylwetki jest nałożeniem operacji zwężania na wynik operacji rozszerzenia
+Operacja erozji dla obrazów monochromatycznych jest wykonywana przy pomocy filtru minimalnego.
+Operacja otwarcia pozwala pozbyć się wypustek
+Operacja otwarcia sylwetki jest nałożeniem operacji rozszerzenia na wynik operacji zwężenia obrazu
+Operacja rozciągania histogramu ma na celu poprawę kontrastu obrazu.
+Operacja rozciągania histogramu ma na celu poprawę ostrości obrazu.
+Operacja rozciągania histogramu rozciąga zakres wartości składowych, tak aby histogram obejmował
+Operacja rozciągania histogramu zwykle zmienia histogram.
+Operacja rozszerzania jest idempotentna.
+Operacja wyrównania histogramu dodaje nowe informacje do obrazu, których nie było w obrazie
+Operacja wyrównania histogramu nigdy nie zmienia wysokości słupków w histogramie.
+Operacja wyrównywania histogramu ma na celu poprawę kontrastu obrazu.
+Operacja wyrównywania histogramu zmienia histogram.
+Operacje morfologiczne nie mogą służyć do pozbycia się zakłóceń.
+Operacje morfologiczne nie mogą służyć do znajdowania obiektu.
+Operator Prewitta daje lepsze rezultaty w wykrywaniu krawędzi niż operator Sobela.
+Operator Robertsa daje lepsze rezultaty w wykrywaniu krawędzi niż operator Sobela.
+Operator Sobela daje lepsze rezultaty w wykrywaniu krawędzi niż operator Prewitta.
+Operator Sobela daje lepsze rezultaty w wykrywaniu krawędzi niż operator Robertsa.
+Operatory gradientowe wykorzystywane są do detekcji krawędzi oraz jej kierunku.
+Parametry wewnętrzne kamery charakteryzują optyczne i geometryczne cechy kamery.
+Po operacji dylatacji sylwetka zmniejsza się.
+Po operacji erozji sylwetka zwiększa się.
+Podstawowymi operacjami morfologicznymi są operacje rozszerzania i zwężania.
+Poprzez domknięcie można uzupełnić "dziury" i "zatoki" w sylwetce.
+Progowanie histerezowe odbywa się na podstawie wartości jednego progu.
+Progowanie histerezowe stosuje się w przypadkach, gdy klasy pikseli nie są wyraźnie odseparowane.
+Progowanie iteracyjne wymaga wiedzy a priori na temat pomiaru i położenia obiektów na scenie.
+Przekształcenia lokalne są operacjami wykonywanymi na pojedynczych pikselach obrazu.
+Przekształcenia punktowe są operacjami wykonywanymi na pojedynczych pikselach obrazu.
+Próbkowanie ze zbyt niską częstotliwością może prowadzić do pojawienia się zjawiska aliasingu.
+Próbkowanie ze zbyt wysoką częstotliwością może prowadzić do pojawienia się zjawiska aliasingu.
+Rozmiar obrazu ma krytyczny wpływ na zmianę jakości obrazu po przeprowadzeniu wtórnej
+Rozpoznawanie obrazu jest procesem klasyfikacji obiektów oraz jej symbolicznej interpretacji.
+Rozpoznawanie obrazu jest procesem polegającym na przetworzeniu obrazu widzianego przez
+Rozszerzenie sylwetki jest operacją odwracalną.
+Segmentacja ma na celu podział obrazu na odpowiednie obszary.
+Segmentacja ma na celu rozpoznanie tego co znajduje się na obrazie.
+Skrót LUT pochodzi od słów: local uniform transformation.
+Skrót LUT pochodzi od słów: look-up table.
+Splot pokazuje kierunek wzrostu jasności w obrazach monochromatycznych.
+Suma elementów filtru dolnoprzepustowego powinna wynosić 1.
+Szkielet obiektu jest zbiorem wszystkich punktów równoodległych od co najmniej dwóch punktów
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+TAK
+Transformacja Fouriera jest operacją liniową.
+Transformacja Fouriera jest operacją odwracalną.
+Transformacja Fouriera może służyć do wykrywania określonych kształtów na obrazie.
+Transformacja Fouriera umożliwia przejście z dziedziny rzeczywistej w dziedzinę częstotliwości.
+Transformata Fouriera iloczynu dwóch funkcji jest równa splotowi transformat tych funkcji.
+Transformata Fouriera jest operacją nieliniową.
+Transformata Fouriera splotu dwóch funkcji jest równa splotowi transformat tych funkcji.
+Transformata fouriera transformuje z przestrzeni rzeczywistej do trójwymiarowej
+Transformata splotu dwóch funkcji jest równa iloczynowi transformat i odwrotnie.
+Triangulacja korzysta z własności podobieństwa trójkątów.
+Triangulacja korzysta z zależności między bokiem a przekątną kwadratu.
+Twierdzenie Ważewskiego - Dawidenki definiuje, jak często należy próbkować, aby z sygnału
+W DFT próbki są dzielone na dwie grupy: próbki parzyste i nieparzyste.
+W FFT próbki są dzielone na dwie grupy: próbki parzyste i nieparzyste
+W detektorze Canny krawędzie mają szerokość 1px.
+W filtracji kontekstowej suma wag maski filtru górnoprzepustowego musi wynosić jeden.
+W grafice rastrowej objętość wykorzystywanej pamięci jest niezależna od stopnia skomplikowania
+W grafice rastrowej obraz rysowany jest za pomocą punktów kresek itp., więc zapamiętywane są
+W grafice wektorowej objętość wykorzystanej pamięci jest niezależna od stopnia skomplikowania
+W grafice wektorowej obraz rysowany jest za pomocą punktów kresek itp., więc zapamiętywane są
+W interpolacji liniowej wyznaczenie jasności nowego piksela odbywa się przy użyciu średniej
+W kanonicznym układzie kamer linie epipolarne są do siebie równoległe.
+W kanonicznym układzie kamer problem dopasowania obrazów mocno się komplikuje.
+W kontekstowej filtracji obrazu zwiększenie rozmiaru maski filtru dolnoprzepustowego powoduje
+W kontekstowej filtracji obrazu zwiększenie rozmiaru maski filtru górnoprzepustowego powoduje
+W modelu HSV przestrzeń barw jest stożkiem.
+W modelu RGB kolor reprezentowany jest przez trzy składowe: turkusową , purpurową, żółtą.
+W modelu barw CMYK każdy kolor reprezentowany jest przez trzy składowe: czerwoną, niebieską,
+W modelu barw CMYK kolor reprezentowany jest przez składowe: turkusową, purpurową, żółtą i
+W modelu barw CMYK zmieszanie wszystkich kolorów daje kolor biały.
+W modelu barw RGB zmieszanie wartości kolorów daje kolor biały.
+W progowaniu wartość progu lokalnego dobierana jest na podstawie całego obrazu.
+W progowaniu wartość progu najczęściej dobiera się na podstawie widma.
+W przekształceniach punktowych operacje nie wprowadzają nowych informacji do obrazu.
+W sytuacji kiedy mamy do czynienia z nierównomiernością oświetlenia dobrze jest zastosować
+W sytuacji kiedy mamy do czynienia z nierównomiernością oświetlenia dobrze jest zastosować
+W transformacji Fouriera współczynniki stojące przy funkcjach bazowych mogą być liczbami
+W transformacji Fouriera współczynniki stojące przy funkcjach bazowych nie mogą być liczbami
+W widmie obrazu po operacji przesunięcia niskie częstotliwości znajdują się na obrzeżach widma.
+W widmie obrazu po operacji przesunięcia składowa stała znajduje się w środku.
+W widmie obrazu po operacji przesunięcia wysokie częstotliwości znajdują się na obrzeżach widma.
+Wartości wag w masce filtru Gaussa odpowiadają wartościom dwuwymiarowej funkcji kwadratowej.
+Wynikiem analizy obrazu jest inny obraz.
+Za pomocą momentów zwykłych pierwszego rzędu m(1,0) i m(0,1) można wyznaczyć położenie
+Za pomocą operacji morfologicznych możemy przeprowadzić filtrację szumów.
+Za pomocą operacji morfologicznych można wyznaczyć szkielet sylwetki.
+Za pomocą operacji morfologicznych nie możemy przeprowadzić filtracji szumów.
+Za pomocą parametrów zewnętrznych kamery możliwa jest korekcja przekształceń geometrycznych
+Zawartość obiektu jest parametrem zależnym od położenia i rotacji.
+Zgodnie z twierdzeniem Shanona-Kotielnikowa o próbkowaniu, częstotliwość próbkowania
+Zgodnie z twierdzeniem Shanona-Kotielnikowa o próbkowaniu, częstotliwość próbkowania
+arytmetycznej.
+charakterystyczne dane figur.
+charakterystyczne dane figur.
+czarną.
+detektora Canny.
+detektora Canny.
+dyskretnego można było odtworzyć sygnał pierwotny (ciągły).
+filtru górnoprzepustowego powinna wynosić jeden.
+gwarantująca zachowanie pełnej informacji o sygnale powinna być co najmniej dwukrotnie mniejsza
+gwarantująca zachowanie pełnej informacji o sygnale powinna być co najmniej dwukrotnie większa
+kamerę do postaci cyfrowej.
+kwantyzacji.
+należących do brzegu.
+obraz oryginalny.
+obraz oryginalny.
+obrazie rzeczywistym.
+obrazie.
+obrazu cyfrowego.
+obrazu pierwotnego.
+obrazu.
+obrazu.
+obrazu.
+od maksymalnej częstotliwości sygnału.
+od maksymalnej częstotliwości sygnału.
+pierwotnego.
+postaci cyfrowej.
+postaci jakby zostały one pobrane w kanonicznym układzie kamer.
+powinna wynosić zero.
+progowanie globalne.
+progowanie zmienne (dynamiczne).
+przed wykonaniem tej operacji.
+przeprowadzeniu wtórnego próbkowania.
+próbkowaniem.
+rzeczywistym.
+silniejsze rozmycie.
+szumów.
+wartość W + H.
+widoczne rozmycie.
+wszystkie dostępne wartości jasności.
+zespolonymi.
+zespolonymi.
+zielony.
+środka ciężkości.

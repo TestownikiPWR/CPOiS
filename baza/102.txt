@@ -1,0 +1,6 @@
+X0000
+Celem przetwarzania obrazów jest
+otrzymanie opisu obrazu w postaci liczb lub słów
+pomiar wartości określonych cech
+stopniowa redukcja informacji na obrazie
+wyznaczenie liczbowych charakterystyk

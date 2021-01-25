@@ -1,0 +1,5 @@
+X000
+Operacja rozciągnięcia histogramu
+może być detektorem krawędzi
+potrzebuje histogramu kumulacyjnego
+powoduje, że histogram jest nierównomiernie rozciągany na cały zakres dostępnych jasności

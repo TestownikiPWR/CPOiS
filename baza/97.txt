@@ -1,0 +1,6 @@
+X0000
+W morfologii matematycznej operacja domknięcia jest
+nałożeniem operacji dopasowania na wynik operacji rozszerzania z obrazem pierwotnym
+nałożeniem operacji rozszerzania na wynik operacji dopasowania z obrazem pierwotnym
+nałożeniem operacji rozszerzania na wynik operacji zwężania z obrazem pierwotnym
+nałożeniem operacji zwężania na wynik operacji rozszerzania z obrazem pierwotnym

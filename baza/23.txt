@@ -1,0 +1,6 @@
+X0000
+Za pomocą transformacji Hougha możemy aproksymować krawędzie będące
+dowolnym kształtem
+tylko liniami lub okręgami
+tylko liniami pionowymi
+tylko liniami poziomymi

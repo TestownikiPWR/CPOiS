@@ -1,0 +1,6 @@
+X0000
+Detektor Canny służy do
+detekcji jednolitych obszarów
+detekcji krawędzi
+detekcji obszarów o określonej fakturze
+detekcji określonych kształtów

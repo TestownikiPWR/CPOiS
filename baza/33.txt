@@ -1,0 +1,6 @@
+X0000
+W progowaniu globalnym
+próg jest zależny od treści obrazu w pewnym otoczeniu
+wartość progu jest zależna od współrzędnych przestrzennych obrazu
+wartość progu może być różna w zależności od obszaru
+wartość progu zwykle jest dobierana na podstawie histogramu

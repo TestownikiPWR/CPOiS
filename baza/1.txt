@@ -1,0 +1,6 @@
+X0000
+Mapa głębi jest wyznaczana na podstawie mapy
+dylacji
+dysparycji
+konowlucji
+korelacji

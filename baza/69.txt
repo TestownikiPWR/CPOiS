@@ -1,0 +1,6 @@
+X0000
+Przykładem dolnoprzepustowego filtru nieliniowego jest
+filtr Gaussa
+filtr Laplace'a
+filtr jednorodny
+filtr medianowy

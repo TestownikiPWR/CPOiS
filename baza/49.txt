@@ -1,0 +1,6 @@
+X0000
+Filtracja górnoprzepustowa
+jest przydatna przy konstruowaniu detektora krawędzi
+wygładza obraz
+zmniejsza szum na obrazie
+zwiększa kontrast

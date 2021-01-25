@@ -1,0 +1,6 @@
+X0000
+Położenie środka ciężkości sylwetki możemy wyliczyć za pomocą momentów
+Hu
+centralnych
+centralnych znormalizowanych
+zwykłych

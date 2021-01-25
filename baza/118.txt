@@ -1,0 +1,6 @@
+X0000
+Norma dająca wynik niezależny od orientacji gradientu to
+norma Frobeniusa
+norma euklidesowa
+norma maksimum
+norma taksówkowa

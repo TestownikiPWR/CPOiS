@@ -1,0 +1,6 @@
+X0000
+Korzystając z transformacji Hougha zakładamy, że
+krawędź ma określony kształt
+krzywizna krawędzi jest mała
+nie musimy czynić żadnych założeń
+znamy przybliżone położenie krawędzi z obrazu o obniżonej rozdzielczości

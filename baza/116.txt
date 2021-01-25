@@ -1,0 +1,6 @@
+X0000
+Operator Sobela na obszarze o jednakowej jasności zwróci wartość
+0
+dodatnią
+ujemną
+zależną od jasności tego obszaru

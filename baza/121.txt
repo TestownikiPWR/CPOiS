@@ -1,0 +1,6 @@
+X0000
+Mówiąc o modelu barw RGB prawdą jest, że:
+jego barwą podstawową jest turkus (cyan)
+jest to model addytywny
+jest to model substraktywny
+wartość 0 każdej składowej odpowiada kolorowi białemu

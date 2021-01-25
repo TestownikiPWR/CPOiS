@@ -1,0 +1,6 @@
+X0000
+Filtr Gaussa
+całkowicie eliminuje zakłócenia z obrazu
+jest przykładem filtru dolnoprzepustowego
+jest przykładem filtru górnoprzepustowego
+to filtr, którego wszystkie współczynniki maski mają jednakową wartość

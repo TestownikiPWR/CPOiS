@@ -1,0 +1,6 @@
+X0000
+Laplasjan na obszarze o jednakowej jasności zwróci wartość
+0
+dodatnią
+ujemną
+zależną od jasności tego obszaru

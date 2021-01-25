@@ -1,0 +1,7 @@
+X00000
+Zgodnie z twierdzeniem o próbkowaniu, minimalna częstotliwość próbkowania gwarantująca zachowanie informacji o
+co najmniej 2fhmax, gdzie fhmax - składowa harmoniczna o najwyższej częstotliwości sygnału
+co najmniej 2fhmin, gdzie fhmin - składowa harmoniczna o najniższej częstotliwości sygnału
+co najwyżej 2fhmax, gdzie fhmax - składowa harmoniczna o najwyższej częstotliwości sygnału
+co najwyżej 2fhmin, gdzie fhmin - składowa harmoniczna o najniższej częstotliwości sygnału
+sygnale jest równa

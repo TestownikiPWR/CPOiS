@@ -1,0 +1,6 @@
+X0000
+Binaryzacja to
+proces konwersji obrazu kolorowego do obrazu monochromatycznego
+proces konwersji obrazu monochromatycznego do obrazu binarnego
+proces mający na celu parametryczny opis elementów na obrazie
+wydzielenie na obrazie obszarów spełniających pewne kryteria jakości

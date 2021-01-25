@@ -1,0 +1,6 @@
+X0000
+Liczba Eulera sylwetki o 3 dziurach wynosi
+-2
+-3
+0
+3

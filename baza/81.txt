@@ -1,0 +1,6 @@
+X0000
+W przypadku histogramu bimodalnego próg dobierany jest jako
+globalne maksimum
+globalne minimum
+maksimum w przedziale (zi, zj), gdzie dla zi i zj histogram przyjmuje wartości dwóch największych minimów lokalnych
+minimum w przedziale (zi, zj), gdzie dla zi i zj histogram przyjmuje wartości dwóch największych maksimów lokalnych

@@ -1,0 +1,8 @@
+X000000
+W przypadku transformacji lokalnych
+jasność piksela na obrazie wynikowym zależy od jasności odpowiadającego mu piksela oraz jego sąsiedztwa w
+jasność piksela na obrazie wynikowym zależy tylko i wyłącznie od jasności odpowiadającego mu piksela w obrazie
+na jasność piksela na obrazie wynikowym wpływa cały obraz pierwotny
+na jasność piksela na obrazie wynikowym wpływa położenie danego piksela na obrazie pierwotnym
+obrazie pierwotnym
+pierwotnym

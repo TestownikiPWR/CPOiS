@@ -1,0 +1,6 @@
+X0000
+Transformacja Hougha
+jest mało wrażliwa na zaszumienie obrazu
+jest wrażliwa na szum addytywny
+jest wrażliwa na szum impulsowy
+jest wrażliwa na zakłócenie okresowe

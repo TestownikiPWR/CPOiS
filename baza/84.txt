@@ -1,0 +1,6 @@
+X0000
+Operacja rozciągania histogramu
+jest operacją liniową
+jest operacją nieliniową
+jest transformacją globalną
+jest transformacją lokalną

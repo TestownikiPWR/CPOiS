@@ -1,0 +1,6 @@
+X0000
+Działanie detektora Frei-Chen oparte jest o
+progowanie długości wektora funkcji obrazu
+progowanie gradientu Sobela
+progowanie kąta pomiędzy wektorem funkcji obrazu a podprzestrzenią "krawędziową"
+progowanie laplasjanu

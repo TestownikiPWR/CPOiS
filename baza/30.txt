@@ -1,0 +1,6 @@
+X0000
+W morfologii matematycznej operacja rozszerzania jest
+idempotentna
+nieodwracalna
+nilpotentna
+odwracalna

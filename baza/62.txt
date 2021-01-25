@@ -1,0 +1,6 @@
+X0000
+W celu wykrycia krawędzi należy przeprowadzić splot obrazu z maską
+o nieujemnych wartościach wag
+w której suma wartości wag będzie dowolna
+w której suma wartości wag będzie równa 0
+w której suma wartości wag będzie równa 1

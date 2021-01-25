@@ -1,0 +1,6 @@
+X0000
+W celu wyznaczenia krawędzi niezależnie od ich kierunku należy posłużyć się filtrem
+Gaussa
+Laplace'a
+Sobela
+medianowym

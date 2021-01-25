@@ -1,0 +1,6 @@
+X0000
+Aby uzyskać obraz krawędzi w oparciu o operatory gradientowe
+konieczne jest progowanie
+należy zastosować możliwie najmniejszą maskę filtru
+nie należy stosować progowania
+rozmiar zastosowanej maski filtru nie ma żadnego znaczenia

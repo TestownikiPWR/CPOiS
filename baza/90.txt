@@ -1,0 +1,6 @@
+X0000
+W celu wyznaczenia gradientu jasności na obrazie należy posłużyć się filtrem
+Gaussa
+Laplace'a
+Sobela
+jednorodnym

@@ -1,0 +1,6 @@
+X0000
+W grafice rastrowej
+obraz jest rysowany za pomocą punktów, kresek i łuków
+skalowanie nie wpływa na jakość obrazu
+skalowanie wpływa na jakość obrazu
+zajętość pamięci jest zależna od stopnia skomplikowania obrazu

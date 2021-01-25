@@ -1,0 +1,6 @@
+X0000
+Do wykrycia krawędzi niezależnie od ich kierunku pomocna jest
+maska Laplace'a
+maska Prewitta
+maska Robertsa
+maska Sobela

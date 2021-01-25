@@ -1,0 +1,6 @@
+X0000
+Tablica LUT jest przydatna przy
+transformacjach Fouriera
+transformacjach globalnych
+transformacjach lokalnych
+transformacjach punktowych

@@ -1,0 +1,6 @@
+X0000
+Segmentacja może być przeprowadzona poprzez
+filtrowanie
+interpolację
+progowanie
+transformację Fouriera

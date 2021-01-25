@@ -1,0 +1,6 @@
+X0000
+Do segmentacji obrazu o nierównomiernym oświetleniu najlepiej zastosować
+progowanie dynamiczne
+progowanie globalne
+progowanie iteracyjne (Ridler, Calvard)
+progowanie lokalne

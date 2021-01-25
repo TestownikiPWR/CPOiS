@@ -1,0 +1,6 @@
+X0000
+Wartość współczynnika zwartości
+będzie tym niższa im bardziej sylwetka będzie przypominała koło
+będzie tym wyższa im bardziej sylwetka będzie przypominała koło
+przyjmuje wartości z przedziału [-100,100]
+przyjmuje wartości z przedziału [0,100]

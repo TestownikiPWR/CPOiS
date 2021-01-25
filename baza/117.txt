@@ -1,0 +1,6 @@
+X0000
+Operatory gradientowe
+korzystają z drugiej pochodnej obrazu
+mogą służyć do wykrywania krawędzi na obrazie
+są nieczułe na zakłócenia impulsowe
+zwracają wartość zero w krawędziach

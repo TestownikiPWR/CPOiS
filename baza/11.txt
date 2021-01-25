@@ -1,0 +1,6 @@
+X0000
+W morfologii matematycznej operacja otwarcia
+usuwa drobne obiekty o charakterze półwyspu czy wypustki
+uzupełnia dziury i zatoki
+wydobywa kontur
+wyznacza szkielet

@@ -1,0 +1,6 @@
+X0000
+Załóżmy, że obraz z prawej kamery jest obrazem odniesienia. Zaznać poprawne zdanie.
+Dysparycja maleje wraz z zbliżaniem się punktu do systemu stereowizyjnego.
+Dysparycja rośnie wraz z oddalaniem się punktu od systemu stereowizyjnego.
+Dysparycja rośnie wraz z zbliżaniem się punktu do systemu stereowizyjnego.
+Dyspersja rośnie wraz z zbliżaniem się punktu do systemu stereowizyjnego.

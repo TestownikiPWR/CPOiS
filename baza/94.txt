@@ -1,0 +1,6 @@
+X0000
+Aby przeprowadzić filtrację w dziedzinie częstotliwości, maska filtru
+może być dowolnego rozmiaru
+powinna zawierać piksele o wartościach -1 albo 1
+powinna zawierać piksele o wartościach 0 albo 1
+powinna zawierać piksele o wartościach całkowitych z przedziału od 0 do 255

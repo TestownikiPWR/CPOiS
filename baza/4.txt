@@ -1,0 +1,6 @@
+X0000
+Kwantyzacja to
+dwuwymiarowe próbkowanie w ściśle określonych miejscach przestrzeni
+podział zakresu wartości jasności na przedziały i przypisanie każdemu punktowi wybranej wartości dyskretnej
+proces konwersji obrazów monochromatycznych lub kolorowych do obrazu binarnego
+wydzielenie obszarów obrazu spełniających pewne kryteria jednorodności

@@ -1,0 +1,6 @@
+X0000
+Wtórne próbkowanie obrazu:
+nie wpłynie na jakość obrazu
+prowadzi do redukcji liczby odcieni szarości
+znacznie pogorszy jakość obrazu szybkozmiennego
+znacznie pogorszy jakość obrazu wolnozmiennego

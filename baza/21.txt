@@ -1,0 +1,6 @@
+X0000
+Tłumienie niemaksymalne to
+inne określenie filtracji dolnoprzepustowej
+jeden z etapów przetwarzania detektora Canny
+sposób na pozbycie się zakłóceń addytywnych
+sposób na pozbycie się zakłóceń impulsowych

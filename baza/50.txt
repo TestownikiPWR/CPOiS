@@ -1,0 +1,6 @@
+X0000
+Aby przeprowadzić progowanie histerezowe
+należy podać jedną wartość progu
+należy podać wartości dwóch progów
+należy podać wartości trzech progów
+wartość progu powinna być obliczona na podstawie histogramu kumulacyjnego

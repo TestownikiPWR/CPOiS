@@ -1,0 +1,6 @@
+X0000
+Mówiąc o metodzie najbliższego sąsiada, prawdą jest, że
+do interpolacji stosuje się funkcję kwadratową dwa razy, raz w poziomie a później raz w pionie
+powiela kolor najbliższego odpowiednika
+redukuje ona postrzępione krawędzie
+wartość nowego piksela jest wartością średnią jasności pikseli najbliższych sąsiadów

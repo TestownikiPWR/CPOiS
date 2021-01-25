@@ -1,0 +1,6 @@
+X0000
+W grafice wektorowej
+obraz jest zapamiętywany jako dwuwymiarowa tablica
+powiększenie obrazu traci na jakości
+zajętość pamięci nie jest zależna od stopnia skomplikowania obrazu
+zapamiętywane są charakterystyczne dane figur, np. środek i promień okręgu

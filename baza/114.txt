@@ -1,0 +1,6 @@
+X0000
+Tablica sklejeń jest wykorzystywana
+do indeksowana sylwetek
+do korekcji zniekształceń geometrycznych
+do zaoszczędzenia czasu przy powtarzalnych obliczeniach
+przy transformacjach punktowych

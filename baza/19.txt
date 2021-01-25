@@ -1,0 +1,6 @@
+X0000
+O minimalnej częstotliwości próbkowania gwarantującej zachowanie pełnej informacji o sygnale mówi twierdzenie
+Fouriera
+Lagrange'a
+Nyquista
+Shannona

@@ -1,0 +1,6 @@
+X0000
+W stereowizji płaszczyznę epipolarną wyznaczają punkty
+ognisko jednej kamery i obrazy punktu na matrycach kamer
+punkt w przestrzeni i obrazy tego punktu na matrycach kamer
+punkt w przestrzeni i ogniska dwóch kamer
+punkt w przestrzeni i punkty główne matryc kamer

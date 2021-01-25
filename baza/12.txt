@@ -1,0 +1,6 @@
+X0000
+Transformata splotu dwóch funkcji
+jest równa iloczynowi transformat tych funkcji
+jest równa ilorazowi transformat tych funkcji
+jest równa różnicy transformat tych funkcji
+jest równa sumie transformat tych funkcji

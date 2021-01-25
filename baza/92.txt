@@ -1,0 +1,6 @@
+X0000
+Transformacja Hougha służy do
+detekcji jednolitych obszarów
+detekcji obszarów o określonej fakturze
+detekcji określonych kształtów na obrazie
+filtracji górnoprzepustowej

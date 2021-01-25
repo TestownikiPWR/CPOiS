@@ -1,0 +1,6 @@
+X0000
+Operacja rozciągnięcia histogramu
+może być detektorem krawędzi
+nie zmienia liczby poziomów jasności
+potrzebuje histogramu kumulacyjnego
+powoduje, że histogram jest nierównomiernie rozciągany na cały zakres dostępnych jasności

@@ -1,0 +1,6 @@
+X0000
+Detektor Frei-Chen
+jego skuteczność nie zależy od jasności obszaru na którym następuje detekcja
+jego skuteczność zależy od jasności obszaru na którym następuje detekcja
+jest nieczuły na zakłócenia
+opiera się o progowanie histerezowe

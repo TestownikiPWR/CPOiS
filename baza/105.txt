@@ -1,0 +1,6 @@
+X0000
+Aby przedstawić obraz rzeczywisty w postaci skończonej liczby wartości funkcji jasności należy poddać go procesom
+binaryzacji i kwantyzacji
+dyskretyzacji i kwantyzacji
+dyskretyzacji i próbkowania
+segmentacji i kwantyzacji

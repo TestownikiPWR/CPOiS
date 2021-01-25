@@ -1,0 +1,6 @@
+X0000
+W przekształceniach punktowych
+brany jest pod punkt wraz z jego sąsiedztwem
+operacje wykonywane są na pojedynczych pikselach obrazu
+piksele o jednakowej jasności są traktowane w różny sposób
+relacje geometryczne elementów na obrazie ulegają zmianie

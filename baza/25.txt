@@ -1,0 +1,6 @@
+X0000
+Operator Sobela wyznacza krawędź jako
+maksimum drugiej pochodnej obrazu
+maksimum pierwszej pochodnej obrazu
+minimum drugiej pochodnej obrazu
+minimum pierwszej pochodnej obrazu

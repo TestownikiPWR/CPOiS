@@ -1,0 +1,6 @@
+X0000
+W grafice wektorowej
+obraz zapamiętywany jest jako dwuwymiarowa tablica
+skalowanie nie wpływa na jakość obrazu
+skalowanie wpływa na jakość obrazu
+zajętość pamięci nie zależy od stopnia skomplikowania obrazu

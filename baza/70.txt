@@ -1,0 +1,6 @@
+X0000
+W detektorze Canny wsytępuje progowanie podwójne. Jeżeli tl oznacza próg liberalny a tr próg radykalny to
+należy zadbać o to by tl < tr
+należy zadbać o to by tl = tr
+należy zadbać o to by tl > tr
+zależność pomiędzy tl i tr nie ma znaczenia

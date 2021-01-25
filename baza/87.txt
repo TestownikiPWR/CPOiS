@@ -1,0 +1,6 @@
+X0000
+Momenty zwykłe są
+niezależne od położenia, orientacji i skali
+zależne od orientacji
+zależne od orientacji i skali
+zależne od położenia, orientacji i skali

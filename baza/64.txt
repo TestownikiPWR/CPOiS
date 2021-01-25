@@ -1,0 +1,6 @@
+X0000
+Histogram kumulacyjny
+posiada ostatni (prawy) prążek o wysokości równej W*H, gdzie W jest szerokością obrazu a H jego wysokością
+posiada ostatni (prawy) prążek o wysokości równej W+H, gdzie W jest szerokością obrazu a H jego wysokością
+posiada ostatni (prawy) prążek o wysokości równej liczbie punktów o maksymalnej jasności
+posiada ostatni (prawy) prążek o wysokości równej liczbie punktów o minimalnej jasności

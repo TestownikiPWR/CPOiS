@@ -1,0 +1,6 @@
+X0000
+Pole powierzchni sylwetki nie może być wyliczone jako
+moment centralny rzędu 0
+moment centralny znormalizowany rzędu 0
+moment zwykły rzędu 0
+sumę punktów należących do sylwetki

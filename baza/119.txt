@@ -1,0 +1,6 @@
+X0000
+Prawdą jest, że
+do pozbycia się z obrazu szumu impulsowego najlepiej użyć filtru Gaussa
+do pozbycia się z obrazu szumu impulsowego najlepiej użyć filtru Sobela
+do pozbycia się z obrazu szumu impulsowego najlepiej użyć filtru jednorodnego
+do pozbycia się z obrazu szumu impulsowego najlepiej użyć filtru medianowego

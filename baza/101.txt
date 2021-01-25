@@ -1,0 +1,7 @@
+X00000
+◄ Wykład12
+Parametrem wewnętrznym kamery nie jest
+odległość pomiędzy środkami rzutowania
+ogniskowa kamery
+rozmiar piksela matrycy kamery
+współrzędne punktu środkowego

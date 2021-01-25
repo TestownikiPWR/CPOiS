@@ -1,0 +1,6 @@
+X0000
+W operacjach morfologicznych element strukturalny
+może przyjmować dowolny kształt
+musi być kwadratem
+musi być macierzą
+musi być symetryczny

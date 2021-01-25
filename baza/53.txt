@@ -1,0 +1,6 @@
+X0000
+Operatory gradientowe
+mają kierunkowy charakter
+nie generują grubych krawędzi
+są niewrażliwe na zakłócenia
+są niezależne od kierunku

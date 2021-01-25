@@ -1,0 +1,6 @@
+X0000
+W widmie transformaty Fouriera po tzw. przesunięciu
+składowa stała jest w centrum
+składowa stała jest w górnym lewym rogu
+składowe odpowiadające za niskie częstotliwości są daleko składowej stałej
+składowe odpowiadające za wysokie częstotliwości są blisko składowej stałej

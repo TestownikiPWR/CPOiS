@@ -1,0 +1,6 @@
+X0000
+W morfologii matematycznej operacja zwężania jest
+addytywna
+idempotentna
+nilpotentna
+odwracalna

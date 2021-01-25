@@ -1,0 +1,6 @@
+X0000
+Rozciąganie histogramu
+powoduje, że histogram rozciągany jest na cały zakres dostępnych jasności
+powoduje, że wynikowy histogram jest możliwie płaski
+zawsze zmienia obraz
+zawsze zwiększa kontrast

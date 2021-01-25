@@ -1,0 +1,6 @@
+X0000
+W morfologii matematycznej znajdowanie szkieletu opiera się o operację
+dylacji
+pocieniania
+pogrubiania
+zwężania

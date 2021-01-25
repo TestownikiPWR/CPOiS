@@ -1,0 +1,6 @@
+X0000
+Filtracja dolnoprzepustowa
+może być przydatna przy konstruowaniu detektora krawędzi
+uwydatnia krawędzie na obrazie
+wygładza obraz
+zwiększa kontrast

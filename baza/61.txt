@@ -1,0 +1,6 @@
+X0000
+Transformacja Fouriera jest
+operacją nieodwracalną
+operacją odwracalną
+szeregiem, w którym funkcje bazowe są wielomianami
+zawsze używana do poprawy kontrastu
